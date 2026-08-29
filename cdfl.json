@@ -51,6 +51,26 @@
       "timeout": 10000
     },
     {
+      "name": "三级电影",
+      "type": 0,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh4/refs/heads/main/cdxdy.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "欧美直播",
+      "type": 0,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cd/refs/heads/main/yer.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
       "name": "cdxdy",
       "type": 1,
       "ua": "okhttp/4.15.0",
