@@ -8,7 +8,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "clh1",
@@ -18,7 +17,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "clh2",
@@ -28,7 +26,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "维护成人",
@@ -38,7 +35,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "达人",
@@ -48,7 +44,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "三级电影",
@@ -58,7 +53,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "欧美直播",
@@ -68,7 +62,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "cdxdy",
@@ -78,7 +71,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "国产直播",
@@ -88,7 +80,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "国产精品",
@@ -98,7 +89,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "探花约炮",
@@ -108,7 +98,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "69",
@@ -118,7 +107,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "蜜桃FC2",
@@ -128,7 +116,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "xxxJapanY",
@@ -138,8 +125,7 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
-    }
+   }
   ],
   "parsers": [],
   "flags": [
