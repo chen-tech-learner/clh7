@@ -1,0 +1,265 @@
+﻿{
+  "lives": [
+    {
+      "name": "clh",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh/refs/heads/main/clh.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "clh1",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh/refs/heads/main/clh1.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "clh2",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh/refs/heads/main/clh2.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "维护成人",
+      "type": 0,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E7%BB%B4%E6%8A%A4%E6%88%90%E4%BA%BA.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "达人",
+      "type": 0,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E8%BE%BE%E4%BA%BA.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "cdxdy",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh4/refs/heads/main/cdxdy.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "国产直播",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ameria22/TV/refs/heads/main/data/01%E5%9B%BD%E4%BA%A7%E7%9B%B4%E6%92%AD_20260417_024507.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "国产精品",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ameria22/TV/refs/heads/main/data/01%E5%9B%BD%E4%BA%A7%E7%B2%BE%E5%93%81_20260417_024507.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "探花约炮",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ameria22/TV/refs/heads/main/data/01%E6%8E%A2%E8%8A%B1%E7%BA%A6%E7%82%AE_20260417_024507.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "69",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/69.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "蜜桃FC2",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh.zrfme.com/https://raw.githubusercontent.com/cdlongbow/ge6bu6/refs/heads/main/file/%EF%BC%BB%E8%9C%9C%E6%A1%83%EF%BC%BDFC2-PPV.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    },
+    {
+      "name": "xxxJapanY",
+      "type": 1,
+      "ua": "okhttp/4.15.0",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/sesukyothole/FDTV/refs/heads/main/tv/xxx%20Japan%20Y.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "timeout": 10000
+    }
+  ],
+  "parsers": [],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "le"
+  ],
+  "ijkCodes": [
+    {
+      "name": "软解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "硬解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ads": [
+    ".*\\.tt113\\.cc",
+    ".*\\.tom365\\.com",
+    ".*\\.bilibili\\.com",
+    ".*\\.hdslb\\.com",
+    "static-movie.flvcd.com",
+    ".*\\.umeng\\.com",
+    ".*\\.umtrack\\.com",
+    ".*\\.uyunp.com",
+    ".*\\.admaster\\.com\\.cn",
+    ".*\\.adcdn\\.com\\.cn",
+    ".*\\.domob\\.org",
+    ".*\\.domob\\.cn",
+    ".*\\.tnscount\\.com",
+    ".*\\.tnsxyz\\.com",
+    ".*\\.miaozhen\\.com",
+    ".*\\.mediav\\.com",
+    ".*\\.baidustatic\\.com",
+    ".*\\.shifen\\.com",
+    ".*\\.datafast\\.com",
+    ".*\\.paypal\\.com"
+  ],
+  "doh": [
+    {
+      "name": "Cloudflare",
+      "url": "https://1.1.1.1/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.8.8",
+        "8.8.4.4"
+      ]
+    }
+  ],
+  "wall": [
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/1.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/2.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/3.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/4.jpg"
+  ]
+}
