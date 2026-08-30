@@ -31,16 +31,6 @@
       "boot": false
     },
     {
-      "name": "合集福利",
-      "type": 0,
-      "ua": "okhttp/4.15.0",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/FGBLH-patch-1/xxx%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90.txt",
-      "playerType": 1,
-      "epg": "https://epg.112114.xyz/pp.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "boot": false
-     },
-     {
       "name": "海豚福利",
       "type": 0,
       "ua": "okhttp/4.15.0",
