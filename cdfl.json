@@ -31,10 +31,10 @@
       "boot": false
     },
     {
-      "name": "至尊",
+      "name": "合集福利",
       "type": 0,
       "ua": "okhttp/4.15.0",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/FGBLH-patch-1/%E8%87%B3%E5%B0%8A.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/FGBLH-patch-1/xxx%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90.txt",
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
